@@ -10,7 +10,7 @@ use POSIX qw(strftime);
 # config
 $width = 100; # set the width of the conky window here
 $outputrecords = 3; # qty of RSS entries to output on each run
-$user = "/home/user"l # your home directory
+$user = "/home/user"; # your home directory
 #========================================
 
 &Main();
